@@ -10,7 +10,7 @@ const Hero = () => {
     "logo-github",
   ];
 
-  const linkedInProfileUrl = "https://www.linkedin.com/in/hitesh-verma-8b9759251";
+  const linkedInProfileUrl = "https://www.linkedin.com/in/hitesh-8b9759251/";
   const githubProfileUrl = "https://github.com/Hitesh-au50";
 
   return (
